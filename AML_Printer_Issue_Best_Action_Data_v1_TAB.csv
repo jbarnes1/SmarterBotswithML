@@ -1,0 +1,113 @@
+Printer_Power_On,Printer_IP_Reachable,Printer_Network_Connection_Type,Printer_Paper_OK,Printer_Drivers_Installed,Printer Solution
+Y,Y,Wireless,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wireless,Y,N,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,N,Run Windows Printer Troubleshooter
+N,Y,Wireless,Y,Y,Fix Printer Power
+N,Y,Wired,Y,Y,Fix Printer Power
+Y,N,Wireless,Y,Y,Fix Printer Networking
+Y,N,Wired,Y,Y,Fix Printer Networking
+Y,Y,Wireless,N,Y,Fix Printer Paper
+Y,Y,Wired,N,Y,Fix Printer Paper
+Y,Y,Wireless,Y,N,Install Correct Printer Drivers
+Y,Y,Wired,Y,N,Install Correct Printer Drivers
+Y,Y,Wireless,Y,Y,Check Wireless Connection
+Y,Y,Wired,Y,Y,Check Wireless Connection
+Y,Y,Wireless,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wireless,Y,N,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,N,Run Windows Printer Troubleshooter
+N,Y,Wireless,Y,Y,Fix Printer Power
+N,Y,Wired,Y,Y,Fix Printer Power
+Y,N,Wireless,Y,Y,Fix Printer Networking
+Y,N,Wired,Y,Y,Fix Printer Networking
+Y,Y,Wireless,N,Y,Fix Printer Paper
+Y,Y,Wired,N,Y,Fix Printer Paper
+Y,Y,Wireless,Y,N,Install Correct Printer Drivers
+Y,Y,Wired,Y,N,Install Correct Printer Drivers
+Y,Y,Wireless,Y,Y,Check Wireless Connection
+Y,Y,Wired,Y,Y,Check Wireless Connection
+Y,Y,Wireless,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wireless,Y,N,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,N,Run Windows Printer Troubleshooter
+N,Y,Wireless,Y,Y,Fix Printer Power
+N,Y,Wired,Y,Y,Fix Printer Power
+Y,N,Wireless,Y,Y,Fix Printer Networking
+Y,N,Wired,Y,Y,Fix Printer Networking
+Y,Y,Wireless,N,Y,Fix Printer Paper
+Y,Y,Wired,N,Y,Fix Printer Paper
+Y,Y,Wireless,Y,N,Install Correct Printer Drivers
+Y,Y,Wired,Y,N,Install Correct Printer Drivers
+Y,Y,Wireless,Y,Y,Check Wireless Connection
+Y,Y,Wired,Y,Y,Check Wireless Connection
+Y,Y,Wireless,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wireless,Y,N,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,N,Run Windows Printer Troubleshooter
+N,Y,Wireless,Y,Y,Fix Printer Power
+N,Y,Wired,Y,Y,Fix Printer Power
+Y,N,Wireless,Y,Y,Fix Printer Networking
+Y,N,Wired,Y,Y,Fix Printer Networking
+Y,Y,Wireless,N,Y,Fix Printer Paper
+Y,Y,Wired,N,Y,Fix Printer Paper
+Y,Y,Wireless,Y,N,Install Correct Printer Drivers
+Y,Y,Wired,Y,N,Install Correct Printer Drivers
+Y,Y,Wireless,Y,Y,Check Wireless Connection
+Y,Y,Wired,Y,Y,Check Wireless Connection
+Y,Y,Wireless,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wireless,Y,N,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,N,Run Windows Printer Troubleshooter
+N,Y,Wireless,Y,Y,Fix Printer Power
+N,Y,Wired,Y,Y,Fix Printer Power
+Y,N,Wireless,Y,Y,Fix Printer Networking
+Y,N,Wired,Y,Y,Fix Printer Networking
+Y,Y,Wireless,N,Y,Fix Printer Paper
+Y,Y,Wired,N,Y,Fix Printer Paper
+Y,Y,Wireless,Y,N,Install Correct Printer Drivers
+Y,Y,Wired,Y,N,Install Correct Printer Drivers
+Y,Y,Wireless,Y,Y,Check Wireless Connection
+Y,Y,Wired,Y,Y,Check Wireless Connection
+Y,Y,Wireless,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wireless,Y,N,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,N,Run Windows Printer Troubleshooter
+N,Y,Wireless,Y,Y,Fix Printer Power
+N,Y,Wired,Y,Y,Fix Printer Power
+Y,N,Wireless,Y,Y,Fix Printer Networking
+Y,N,Wired,Y,Y,Fix Printer Networking
+Y,Y,Wireless,N,Y,Fix Printer Paper
+Y,Y,Wired,N,Y,Fix Printer Paper
+Y,Y,Wireless,Y,N,Install Correct Printer Drivers
+Y,Y,Wired,Y,N,Install Correct Printer Drivers
+Y,Y,Wireless,Y,Y,Check Wireless Connection
+Y,Y,Wired,Y,Y,Check Wireless Connection
+Y,Y,Wireless,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wireless,Y,N,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,N,Run Windows Printer Troubleshooter
+N,Y,Wireless,Y,Y,Fix Printer Power
+N,Y,Wired,Y,Y,Fix Printer Power
+Y,N,Wireless,Y,Y,Fix Printer Networking
+Y,N,Wired,Y,Y,Fix Printer Networking
+Y,Y,Wireless,N,Y,Fix Printer Paper
+Y,Y,Wired,N,Y,Fix Printer Paper
+Y,Y,Wireless,Y,N,Install Correct Printer Drivers
+Y,Y,Wired,Y,N,Install Correct Printer Drivers
+Y,Y,Wireless,Y,Y,Check Wireless Connection
+Y,Y,Wired,Y,Y,Check Wireless Connection
+Y,Y,Wireless,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,Y,Run Windows Printer Troubleshooter
+Y,Y,Wireless,Y,N,Run Windows Printer Troubleshooter
+Y,Y,Wired,Y,N,Run Windows Printer Troubleshooter
+N,Y,Wireless,Y,Y,Fix Printer Power
+N,Y,Wired,Y,Y,Fix Printer Power
+Y,N,Wireless,Y,Y,Fix Printer Networking
+Y,N,Wired,Y,Y,Fix Printer Networking
+Y,Y,Wireless,N,Y,Fix Printer Paper
+Y,Y,Wired,N,Y,Fix Printer Paper
+Y,Y,Wireless,Y,N,Install Correct Printer Drivers
+Y,Y,Wired,Y,N,Install Correct Printer Drivers
+Y,Y,Wireless,Y,Y,Check Wireless Connection
+Y,Y,Wired,Y,Y,Check Wireless Connection
